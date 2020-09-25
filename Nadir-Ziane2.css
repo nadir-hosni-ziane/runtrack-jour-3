@@ -1,0 +1,46 @@
+h1 {color: white;
+	font-family: impact, sans-serif;
+	font-style: bold;
+	text-decoration: underline;
+	text-align: center;
+	letter-spacing: 5px
+	}
+	
+h3 {color: orange;
+	font-family: Jazz LET, fantasy;
+	font-style: oblique;
+	text-align: center;
+	letter-spacing: 2px
+	}
+	
+
+.imageflottante{
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+	}
+	
+.BAC {color: white;
+	font-style: italic;
+	font-size: 20px;
+	font-wieght: bold;
+	letter-spacing: 4px
+	}
+
+.imageflottante2{	
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+	}
+	
+	body {background: #fff url(https://i.pinimg.com/736x/27/7b/27/277b27926cce81f882ce839e0f7fcde5.jpg);
+	background-size: cover;
+	margin: 0;
+	padding: 0
+	}
+.BAC:hover{
+	color:blue
+	}
+h1:hover{
+	color:blue
+	}

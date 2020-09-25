@@ -1,0 +1,32 @@
+body { 
+	background: #fff url(https://i.skyrock.net/3424/77003424/pics/3206214979_1_6_EKcNcqS9.gif) no-repeat bottom right; 
+	background-size: cover;
+	margin: 0; 
+	padding: 0;
+	}
+h1 {
+	color: #FF0000;
+}
+
+.warning {
+    border: 10px ridge #FFFFFF;
+    background-color: ##11ffee00;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+	width: 200px;
+	height: 60px;
+}
+
+p{
+	color: #FFFFFF;
+}
+.poesie {
+    border: 10px ridge #0016FC;
+    background-color: ##11ffee00;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+	width: 800px;
+	height: 60px;
+}

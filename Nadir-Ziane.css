@@ -1,0 +1,48 @@
+h1 {color: blue;
+	font-family: "Arial Black", Arial, sans-serif;
+	font-style: italic;
+	text-decoration: underline;
+	text-align: center;
+	letter-spacing: 4px;
+	}
+	
+h3 {color: yellow;
+	font-family: university roman;
+	font-style: oblique;
+	text-align: center;
+	}
+	
+p {color: black;
+	}
+
+.BAC {color: blue;
+	font-style: italic;
+	font-size: 20px;
+	font-wieght: bold;
+	letter-spacing: 4px}
+
+body {background: #fff url(https://www.merraine.com/wp-content/uploads/2016/03/background-869596_960_720.png);
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	}
+
+
+.imageflottante{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+	}
+
+.imageflottante2 {
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+	}
+	
+.BAC:hover{
+	color:white
+	}
+h1:hover{
+	color:white
+	}

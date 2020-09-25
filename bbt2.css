@@ -1,0 +1,32 @@
+body { 
+	background: #fff url(https://thumbs.gfycat.com/GiganticSlushyLemming-size_restricted.gif) no-repeat bottom right; 
+	background-size: cover;
+	margin: 0; 
+	padding: 0;
+	}
+h1 {
+	color: #FFFFFF;
+}
+
+.warning {
+    border: 10px ridge #FF0000;
+    background-color: ##11ffee00;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+	width: 200px;
+	height: 60px;
+}
+
+p{
+	color: #9F00FF;
+}
+.poesie {
+    border: 10px ridge #48AF00;
+    background-color: ##11ffee00;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+	width: 800px;
+	height: 60px;
+}
